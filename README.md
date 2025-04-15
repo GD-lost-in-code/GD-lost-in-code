@@ -1,12 +1,12 @@
 ## Hi! im GD and...
 
-🎓 I'm a Computer Science student at KTH Royal Institute of Technology
-💻 My future career goals: Cybersecurity and software development
-❔ My interests: programming, gaming, content creation
-🧠 Currently improving my:
-- Algorithms & Problem Solving (LeetCode grind 🔥)
-- Java, Python & C Projects
-- Deeper understading of what it takes to be a great developer
+🎓 I'm a Computer Science student at KTH Royal Institute of Technology <br/>
+💻 My future career goals: Cybersecurity and software development<br/>
+❔ My interests: programming, gaming, content creation<br/>
+🧠 Currently improving my:<br/>
+- Algorithms & Problem Solving (LeetCode grind 🔥)<br/>
+- Java, Python & C Projects<br/>
+- Deeper understading of what it takes to be a great developer<br/>
 
 
 # 💻 Tech Stack:
