@@ -1,6 +1,6 @@
 ## Hi! im GD and...
 
-🎓 I'm a Computer Science student at KTH Royal Institute of Technology <br/>
+🎓 I'm a Computer Engineering student at KTH Royal Institute of Technology <br/>
 💻 My future career goals: Cybersecurity, AI and software development<br/>
 ❔ My interests: programming, gaming, content creation<br/>
 🧠 Currently improving my:<br/>
