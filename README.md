@@ -6,7 +6,7 @@
 🧠 Currently improving my:<br/>
 
 * Algorithms & Problem Solving (LeetCode grind 🔥)<br/>
-* Java, Python & C Projects<br/>
+* Projects<br/>
 * Deeper understading of what it takes to be a great developer<br/>
 
 # 💻 Tech Stack:
